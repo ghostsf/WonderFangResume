@@ -1,1 +1,6 @@
-{}
+{
+  "alias": ["wonderfang.love"],
+  "github": {
+    "autoAlias": false
+  }
+}
